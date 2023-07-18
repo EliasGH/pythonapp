@@ -1,0 +1,15 @@
+# Archivos generados automáticamente
+__pycache__/
+*.pyc
+# Archivo de configuración local
+config.py
+# Carpeta del entorno virtual
+myenv/
+# Archivos de registro
+*.log
+# Archivos de respaldo
+*~
+# Archivos de configuración sensibles (si se utilizan variables de entorno)
+.env
+# Carpeta con archivos de prueba
+tests/
